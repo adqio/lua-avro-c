@@ -14,9 +14,9 @@
 #include <string.h>
 
 #include <avro.h>
-#include <lauxlib.h>
-#include <lua.h>
-#include <lualib.h>
+#include </usr/include/lua5.1/lauxlib.h>
+#include </usr/include/lua5.1/lua.h>
+#include </usr/include/lua5.1/lualib.h>
 
 
 int
